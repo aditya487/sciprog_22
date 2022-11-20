@@ -9,6 +9,8 @@ Fork this repository into your github account. From there;
 
 For a step by step video guide, refer back to recording of Practical 2
 
+Updated by Aditya Prakash
+
 For the duration of the semester you will need to update the repository regularly with the practical codes which will be covered in the live demo sessions on Tuesdays. Remember the differences between a local repository and the online version, so you will need to ‘push’ your changes rather than just committing them.
 
 This assignment will contribute 10% of your total marks to this module, so to ensure that you get full marks;
